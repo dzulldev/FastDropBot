@@ -26,3 +26,44 @@ A simple and lightweight Telegram bot that lets you download videos from **Insta
 Install with:
 ```bash
 pip install requests yt-dlp
+
+🚀 Getting Started
+
+1. Export your bot token:
+
+
+
+export BOT_TOKEN=your_telegram_bot_token
+
+2. Run the bot:
+
+
+
+python bot.py
+
+> 💡 Make sure your bot is started on Telegram and has permission to receive messages.
+
+
+
+
+---
+
+📁 Output
+
+All downloaded videos will be saved in the downloads/ folder before being sent back to the user.
+
+
+---
+
+🔒 Security Tip
+
+Never hardcode your token inside the script. Always use environment variables like this project does:
+
+TOKEN = os.getenv('BOT_TOKEN')
+
+
+---
+
+☕ Author
+
+Made with ❤️ by [YourNameHere]
