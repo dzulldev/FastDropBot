@@ -35,3 +35,22 @@ Or run in background:
 
 nohup python main.py &
 ```
+
+## 💬 How to Use
+
+1. Open your Telegram bot
+   
+3. Send a link from:
+
+Instagram
+TikTok
+Twitter (X)
+YouTube
+
+3. The bot will respond with the downloaded video.
+
+No commands needed — just send the link!
+
+📝 License
+
+MIT License — Free to use, modify, and share
